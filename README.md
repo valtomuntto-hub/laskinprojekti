@@ -1,2 +1,2 @@
 java laskin
-moiz§
+moi
